@@ -123,7 +123,6 @@ In order to add a new page, create a new html or markdown file under root direct
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 ```
 
